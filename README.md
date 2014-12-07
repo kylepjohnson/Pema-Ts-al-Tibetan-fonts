@@ -10,7 +10,7 @@ Everything else is © Kyle P. Johnson 2012 under the SIL OFL (Open Font License)
 
 Use
 ---
-[A custom keyboard is available for Mac OS X at](https://github.com/kylepjohnson/pema_tsal_tibetan_keyboard).
+[A custom keyboard is available for Mac OS X](https://github.com/kylepjohnson/pema_tsal_tibetan_keyboard).
 
 Technical
 ---------
