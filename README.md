@@ -16,9 +16,13 @@ Technical
 ---------
 The Pema Ts'al orthographic system introduces three characters (a small tseg, big tseg, and cut shad) which are mapped onto the following points within the Unicode block for the Tibetan script (U+0F00–U+0FFF). These characters are as follow:
 
-Small tseg [࿝]: U+0FDD
-Big tseg [࿭]: U+0FED
-Cut shad [࿽]: U+0FFD
+tsegchung (small interpunct, for syllable breaks): U+0FDD
+tsegchen (big interpunct, for word breaks): U+0FED
+shethung (cut she, for comma): U+0FF
+dragtseg (parallelogram, for uppercase): U+0FDE
+drutseg (circle, for transliteration): U+0FEE
+drudragtreg (square, for transliteration + uppercase): U+0FFE
+
 For more information on the Tibetan Unicode block, see:
 
 http://en.wikipedia.org/wiki/Tibetan_script#Unicode
