@@ -1,0 +1,27 @@
+UnicodePoint, CharacterName, Directions
+
+U+0F0B, Tsegchen, Enlarge existing character at U+0F0B
+U+0FDD, Tsegchung, Make new character relative to the new modified Tseg U+0F0B
+U+0FDE, Dragtseg, Make new character relative to the new modified Tseg U+0F0B
+U+0FEE, Drutseg, Make new character relative to U+0F49
+U+0FFE, Drudragtseg, Make new character relative to U+0FDE
+U+0FFD, Shethung, Make new character based on U+0F0D
+U+0FDF, Drushering, Make a new character by combining U+0FEE and U+0F0D
+U+0FE0, Drushethung, Make a new character by combining U+0FEE and U+0FFD
+U+0FE1, Dragshering, Make a new character by combining U+0FDE and U+0F0D
+U+0FE2, Dragshethung, Make a new character by combining U+0FDE and U+0FFD
+U+0FE3, Drudragshering, Make a new character by combining U+0FFE and U+0F0D
+U+0FE4, Drudragshethung, Make a new character by combining U+0FFE and U+0FFD
+U+002F, Solidus, Modify existing solidus ('/') to match height of U+0F41
+U+007C, Verticle Line, Modify existing verticle line ('|') to match height of U+0F41
+U+0028, Left Parenthesis, Modify existing Left Parenthesis ('(') to match height of U+0F41
+U+0029, Right Parenthesis, Modify existing Right Parenthesis (')') to match height of U+0F41
+U+005B, Left Square Bracket, Modify existing Left Square Bracket ('[') to match height of U+0F41
+U+005D, Right Square Bracket, Modify existing Right Square Bracket (']') to match height of U+0F41
+U+003A, Colon, Modify existing Colon (':') to match height of U+0F47 and size of dots is 72% of U+0FEE
+
+? Lama Pema will maybe send something using these
+U+0FE5
+U+0FE6
+U+0FE7
+U+0FE8

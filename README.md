@@ -13,7 +13,7 @@ The Pema Ts'al orthographic system introduces three characters (a small tseg, bi
 ```
 tsegchung (small interpunct, for syllable breaks): U+0FDD
 tsegchen (big interpunct, for word breaks): U+0FED
-shethung (cut she, for comma): U+0FFC
+shethung (cut she, for comma): U+0FFD
 dragtseg (parallelogram, for uppercase): U+0FDE
 drutseg (circle, for transliteration): U+0FEE
 drudragtreg (square, for transliteration + uppercase): U+0FFE
