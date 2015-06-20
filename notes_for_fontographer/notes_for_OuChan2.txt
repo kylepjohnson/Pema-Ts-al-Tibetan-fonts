@@ -1,7 +1,9 @@
 UnicodePoint, CharacterName, Directions
 
 U+0F0B, Tsek, Enlarge existing tsek at U+0F0B
+U+0FDD, SmallTsek, Make new character relative to the new modified Tsek U+0F0B
 U+0FDE, Dragtseg, Make new character relative to the new modified Tsek U+0F0B
-
-
+U+0FEE, Drutseg, Make new character relative to U+0F49
+U+0FFE, Drudragtreg, Make new character relative to U+0FDE
+U+0FFD, Shethung, Make new character based on U+0F0D
 
