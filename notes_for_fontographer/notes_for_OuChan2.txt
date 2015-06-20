@@ -1,0 +1,7 @@
+UnicodePoint, CharacterName, Directions
+
+U+0F0B, Tsek, Enlarge existing tsek at U+0F0B
+U+0FDE, Dragtseg, Make new character relative to the new modified Tsek U+0F0B
+
+
+
