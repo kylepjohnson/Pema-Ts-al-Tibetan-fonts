@@ -1,10 +1,10 @@
 UnicodePoint, CharacterName, Directions
 
-U+0F0B, Tsek, Enlarge existing tsek at U+0F0B
-U+0FDD, SmallTsek, Make new character relative to the new modified Tsek U+0F0B
-U+0FDE, Dragtseg, Make new character relative to the new modified Tsek U+0F0B
+U+0F0B, Tsegchen, Enlarge existing character at U+0F0B
+U+0FDD, Tsegchung, Make new character relative to the new modified Tseg U+0F0B
+U+0FDE, Dragtseg, Make new character relative to the new modified Tseg U+0F0B
 U+0FEE, Drutseg, Make new character relative to U+0F49
-U+0FFE, Drudragtreg, Make new character relative to U+0FDE
+U+0FFE, Drudragtseg, Make new character relative to U+0FDE
 U+0FFD, Shethung, Make new character based on U+0F0D
 U+0FDF, Drushering, Make a new character by combining U+0FEE and U+0F0D
 U+0FE0, Drushethung, Make a new character by combining U+0FEE and U+0FFD
@@ -18,7 +18,7 @@ U+0028, Left Parenthesis, Modify existing Left Parenthesis ('(') to match height
 U+0029, Right Parenthesis, Modify existing Right Parenthesis (')') to match height of U+0F41
 U+005B, Left Square Bracket, Modify existing Left Square Bracket ('[') to match height of U+0F41
 U+005D, Right Square Bracket, Modify existing Right Square Bracket (']') to match height of U+0F41
-U+003A, Colon, Modify existing Colon (':') to match height of U+0F47
+U+003A, Colon, Modify existing Colon (':') to match height of U+0F47 and size of dots is 72% of U+0FEE
 
 ? Lama Pema will maybe send something using these
 U+0FE5
