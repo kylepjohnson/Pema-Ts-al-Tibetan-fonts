@@ -19,9 +19,3 @@ U+0029, Right Parenthesis, Modify existing Right Parenthesis (')') to match heig
 U+005B, Left Square Bracket, Modify existing Left Square Bracket ('[') to match height of U+0F41
 U+005D, Right Square Bracket, Modify existing Right Square Bracket (']') to match height of U+0F41
 U+003A, Colon, Modify existing Colon (':') to match height of U+0F47 and size of dots is 72% of U+0FEE
-
-? Lama Pema will maybe send something using these
-U+0FE5
-U+0FE6
-U+0FE7
-U+0FE8
